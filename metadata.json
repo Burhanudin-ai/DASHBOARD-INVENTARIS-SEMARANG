@@ -1,0 +1,6 @@
+{
+  "name": "GA Semarang",
+  "description": "Sistem informasi pencatatan keluar masuk barang untuk General Affair (GA) Semarang, dilengkapi dengan kalkulasi stok, rekap per tanggal, rata-rata kebutuhan bulanan, dan fitur ekspor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
